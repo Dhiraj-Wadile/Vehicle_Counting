@@ -12,8 +12,8 @@ You will need:
 
 1. Clone this repository:
 
-   git clone <>
-   cd <Vehicle_Counting>
+   git clone https://github.com/Dhiraj-Wadile/Vehicle_Counting.git
+   cd Vehicle_Counting
    
 
 2. Install dependencies:
